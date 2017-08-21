@@ -104,6 +104,8 @@ All of the [above](#everyone), plus you will be expected to:
 - Provide extra support to the lab manager (this may include filing paperwork).
 - At the beginning of each semester, complete the start-of-semester form pinned to the `#undergrads` channel on Slack.
 - At the end of each semester, complete the end-of-semester form pinned to the `#undergrads` channel on Slack.
+- Undergraduates who work in the lab for a full semester may have the option to assist with an EEG project during the following semesters in the lab.
+- Undergraduates who work in the lab for a full year may have the option to assist with an fMRI project during the following semesters in the lab.
 - *If you are earning course credit for research, you must additionally:*
  - Attend at least one of our lab meetings or journal clubs per week.
  - Present at one meeting during the semester.
