@@ -18,9 +18,11 @@
  - [Meetings](#meetings)
  - [Deadlines](#deadlines)
  - [Presentations](#presentations)
+ - [Lab travel](#lab-travel)
  - [Recommendation letters](#recommendation-letters)
  - [Data management](#data-management)
 - [Funding](#funding)
+- [Undergraduate research](#undergraduate-research)
 - [FAQ](#faq-and-who-to-ask)
 
 # Introduction
@@ -100,8 +102,8 @@ All of the [above](#everyone), plus you will be expected to:
 ## Undergraduate students
 All of the [above](#everyone), plus you will be expected to:
 - Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
-- Work with the lab manager and/or your research mentor to determine your weekly schedule.
-- Provide extra support to the lab manager (this may include filing paperwork).
+- Work with the lab manager and/or your research mentor to determine your weekly schedule. If you are not able to come in during your normal scheduled time, you must let the lab manager know.
+- Provide extra support to the lab manager (this may include filing paperwork). If you are in lab and do not have a task to do, you should ask the lab manager or your supervisor whether there is anything you can help out with.
 - At the beginning of each semester, complete the start-of-semester form pinned to the `#undergrads` channel on Slack.
 - At the end of each semester, complete the end-of-semester form pinned to the `#undergrads` channel on Slack.
 - Undergraduates who work in the lab for a full semester may have the option to assist with an EEG project during the following semesters in the lab.
@@ -110,6 +112,7 @@ All of the [above](#everyone), plus you will be expected to:
  - Attend at least one of our lab meetings or journal clubs per week.
  - Present at one meeting during the semester.
  - Write a short essay on your research topic or experiences at the end of the semester.
+- For more information about undergraduate research positions, refer to the [Undergraduate research](#undergraduate-research) section below.
 
 # Code of conduct
 ## General
@@ -222,6 +225,9 @@ the PHC is blue.<br>
 All other colors<br>
 are up to you.<br>
 
+## Lab travel
+The lab will typically pay for full-time lab members to present their work at major conferences (e.g., SFN, CNS, CEMS). In general, the work should be "new" in that it has not been presented previously, and it should be appropriate for the conference. When I set our grant budgets, I estimate $1500 per trip, so your reimbursable costs should be around that amount or less. Meal costs will be reimbursed for people who are presenting work from the lab. The lab will also pay for new grad students and postdocs to attend one conference in their first year in lab. If travel expenses are being paid off of a grant, additional restrictions may apply (talk to me). All of these guidelines, of course, depend on the availability of funds.
+
 ## Recommendation letters
 Letters of recommendation are one of the many benefits of working in a research lab. I will write a letter for any student or lab member who has spent at least one year in the lab. Letters will be provided for shorter-term lab members in exceptional circumstances (e.g., new graduate students or postdocs applying for fellowships). I maintain this policy because I do not think that I can adequately evaluate someone who has been around for less than a year.
 
@@ -278,6 +284,16 @@ I will oversee all aspects of the financial management of our funding sources. H
 
 ## NIH funding notes
  All research funded by the NIH *must* acknowledge the grant number upon publication. This is essential for documenting that we are turning their money into research findings. We must also submit a yearly progress report describing what we have accomplished. Lab members involved in the research will be asked to contribute to the progress report.
+
+# Undergraduate research
+Undergraduate research assistants play an important role in our lab, and we have several opportunities for them to earn money or credit for their contributions. Because these opportunities require a certain degree of commitment from both the student and the lab, we generally reserve them for students who have already spent at least one semester volunteering in lab. If this policy would prevent you from being able to work in lab, please talk to me or the lab manager because we want all students to be able to pursue their research interests.
+
+In addition to volunteering in lab, other research opportunities include:
+ 1. If you want to work in lab and earn course credit, you can sign up for independent study or undergraduate research ([link to info](https://www.bc.edu/bc-web/schools/mcas/departments/psychology/undergraduate/research-opportunities.html)). We will have to fill out a syllabus contract at the beginning of the semester. Typically you would be in lab for at least 10 hours a week, and you would also be required to attend lab meetings, present at one of them, and write a short statement about your experiences at the end of the semester. Note that you can enroll in research courses multiple times.
+ 2. If you want to work in lab and earn money, you can apply for an [undergraduate research fellowship](https://www.bc.edu/schools/cas/services/faculty/facforms/researchfellows/reschfell.html). Candidates are expected to be academically strong (typically, GPA of 3.4 or above), and you would be expected to work 12-15 hours per week. Because these fellowships are intended to support your academic development, URF students will be strongly encouraged to participate in lab meetings. Note that if you have another BC job, you're not allowed to work more than 20 hours per week during the academic year, and that includes the URF hours.
+ 3. If you want to work in lab, earn money, and are eligible for work-study, I believe that we can arrange for your time in lab to count as work-study.
+
+If you're an undergraduate student and you want to pursue any of these options, talk to me or the lab manager.
 
 # FAQ and who to ask
 
